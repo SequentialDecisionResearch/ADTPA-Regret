@@ -1,0 +1,529 @@
+seed_index,state_index,budget,rule,signature,action,feasible,fallback,reps,reason
+2,0,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,0,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,0,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,0,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,0,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,0,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,0,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,0,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,1,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,1,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,1,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,1,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,1,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,1,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,1,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,1,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,2,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,2,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,2,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,2,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,2,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,2,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,2,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,2,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,3,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,3,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,3,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,3,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,3,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,3,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,3,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,3,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,4,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,4,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,4,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,4,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,4,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,4,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,4,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,4,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,5,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,5,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,5,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,5,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,5,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,5,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,5,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,5,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,6,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,6,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,6,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,6,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,6,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,6,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,6,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,6,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,7,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,7,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,7,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,7,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,7,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,7,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,7,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,7,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,8,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,8,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,8,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,8,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,8,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,8,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,8,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,8,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,9,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,9,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,9,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,9,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,9,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,9,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,9,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,9,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,10,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,10,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,10,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,10,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,10,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,10,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,10,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,10,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,11,6,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,11,6,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,11,12,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,11,12,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,11,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,11,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,11,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,11,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,12,6,all_reps,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,12,6,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,12,12,all_reps,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,12,12,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,12,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,12,48,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,48,default_after_max_budget
+2,12,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,12,96,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,96,default_after_max_budget
+2,13,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,13,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,13,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,13,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,13,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,13,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,13,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,13,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,14,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,14,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,14,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,14,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,14,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,14,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,14,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,14,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,15,6,all_reps,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,15,6,fixed_prefix6,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,15,12,all_reps,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,15,12,fixed_prefix6,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,15,48,all_reps,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,15,48,fixed_prefix6,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,15,96,all_reps,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,15,96,fixed_prefix6,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,16,6,all_reps,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,16,6,fixed_prefix6,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,16,12,all_reps,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,16,12,fixed_prefix6,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,16,48,all_reps,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,16,48,fixed_prefix6,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,16,96,all_reps,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,16,96,fixed_prefix6,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,17,6,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,17,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,17,12,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,17,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,17,48,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,17,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,17,96,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,17,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,18,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,18,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,18,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,18,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,18,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,18,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,18,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,18,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,19,6,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,19,6,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,19,12,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,19,12,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,19,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,19,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,19,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,19,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,20,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,20,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,20,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,20,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,20,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,20,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,20,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,20,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,21,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,21,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,21,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,21,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,21,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,21,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,21,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,21,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,22,6,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,22,6,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,22,12,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,22,12,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,22,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,22,48,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,48,default_after_max_budget
+2,22,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,22,96,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,96,default_after_max_budget
+2,23,6,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,23,6,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,23,12,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,23,12,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,23,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,23,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,23,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,23,96,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,96,default_after_max_budget
+2,24,6,all_reps,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,24,6,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,24,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,24,12,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,24,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,24,48,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,48,default_after_max_budget
+2,24,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,24,96,fixed_prefix6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,96,default_after_max_budget
+2,25,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,25,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,25,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,25,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,25,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,25,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,25,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,25,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,26,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,26,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,26,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,26,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,26,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,26,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,26,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,26,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,27,6,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,27,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,27,12,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,27,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,27,48,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,27,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,27,96,all_reps,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,27,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,28,6,all_reps,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,28,6,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,28,12,all_reps,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,28,12,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,28,48,all_reps,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,48,default_after_max_budget
+2,28,48,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,48,default_after_max_budget
+2,28,96,all_reps,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,96,default_after_max_budget
+2,28,96,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,96,default_after_max_budget
+2,29,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,29,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,29,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,29,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,29,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,29,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,29,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,29,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,30,6,all_reps,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,30,6,fixed_prefix6,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,30,12,all_reps,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,30,12,fixed_prefix6,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,12,default_after_max_budget
+2,30,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,30,48,fixed_prefix6,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,48,default_after_max_budget
+2,30,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,30,96,fixed_prefix6,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,96,default_after_max_budget
+2,31,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,31,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,31,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,31,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,31,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,31,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,31,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,31,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,32,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,32,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,32,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,32,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,32,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,32,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,32,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,32,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,33,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,33,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,33,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,33,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,33,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,33,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,33,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,33,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,34,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,34,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,34,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,34,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,34,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,34,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,34,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,34,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,35,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,35,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,35,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,35,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,35,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,35,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,35,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,35,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,36,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,36,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,36,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,36,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,36,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,36,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,36,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,36,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,37,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,37,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,37,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,37,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,37,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,37,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,37,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,37,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,38,6,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,38,6,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,38,12,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,38,12,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,38,48,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,38,48,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,38,96,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,38,96,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,39,6,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,39,6,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,39,12,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,39,12,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,39,48,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,39,48,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,39,96,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,39,96,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,40,6,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,40,6,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,40,12,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,40,12,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,40,48,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,40,48,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,40,96,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,40,96,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,41,6,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,41,6,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,41,12,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,41,12,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,41,48,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,41,48,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,41,96,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,41,96,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,42,6,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,42,6,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,42,12,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,42,12,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,42,48,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,42,48,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,42,96,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,42,96,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,43,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,43,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,43,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,43,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,43,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,43,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,43,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,43,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,44,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,44,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,44,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,44,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,44,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,44,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,44,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,44,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,45,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,45,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,45,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,45,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,45,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,45,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,45,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,45,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,46,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,46,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,46,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,46,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,46,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,46,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,46,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,46,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,47,6,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,47,6,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,47,12,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,47,12,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,47,48,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,47,48,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,47,96,all_reps,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,47,96,fixed_prefix6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,48,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,48,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,48,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,48,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,48,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,48,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,48,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,48,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,49,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,49,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,49,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,49,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,49,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,49,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,49,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,49,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,50,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,50,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,50,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,50,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,50,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,50,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,50,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,50,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,51,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,51,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,51,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,51,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,51,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,51,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,51,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,51,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,52,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,52,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,52,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,52,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,52,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,52,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,52,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,52,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,53,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,53,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,53,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,53,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,53,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,53,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,53,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,53,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,54,6,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,54,6,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,6,significant_challenger
+2,54,12,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,54,12,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,12,significant_challenger
+2,54,48,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,54,48,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,48,significant_challenger
+2,54,96,all_reps,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,54,96,fixed_prefix6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,True,False,96,significant_challenger
+2,55,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,55,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,55,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,55,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,55,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,55,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,55,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,55,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,56,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,56,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,56,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,56,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,56,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,56,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,56,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,56,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,57,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,57,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,57,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,57,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,57,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,57,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,57,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,57,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,58,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,58,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,58,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,58,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,58,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,58,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,58,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,58,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,59,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,59,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,59,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,59,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,59,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,59,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,59,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,59,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,60,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,60,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,60,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,60,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,60,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,60,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,60,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,60,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,61,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,61,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,61,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,61,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,61,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,61,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,61,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,61,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,62,6,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,62,6,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,6,significant_challenger
+2,62,12,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,62,12,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,62,48,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,62,48,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,62,96,all_reps,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,62,96,fixed_prefix6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger
+2,63,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,63,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,63,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,63,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,63,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,63,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,63,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,63,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,64,6,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,64,6,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,6,IYW holdout infeasible
+2,64,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,64,12,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,64,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,64,48,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,64,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,64,96,fixed_prefix6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,65,6,all_reps,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,65,6,fixed_prefix6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,True,False,6,default_after_max_budget
+2,65,12,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,12,IYW holdout infeasible
+2,65,12,fixed_prefix6,"[""stock_buy"",20,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,12,significant_challenger
+2,65,48,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,48,IYW holdout infeasible
+2,65,48,fixed_prefix6,"[""stock_buy"",20,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,48,significant_challenger
+2,65,96,all_reps,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,False,True,96,IYW holdout infeasible
+2,65,96,fixed_prefix6,"[""stock_buy"",20,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,True,False,96,significant_challenger

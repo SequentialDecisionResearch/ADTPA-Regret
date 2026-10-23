@@ -1,0 +1,7 @@
+rule,from_budget,to_budget,fallback_both,newly_fallback,recovered_from_fallback,neither_fallback
+all_reps,6,12,56,12,0,130
+all_reps,12,48,68,20,0,110
+all_reps,48,96,88,7,0,103
+fixed_prefix6,6,12,56,0,0,142
+fixed_prefix6,12,48,56,0,0,142
+fixed_prefix6,48,96,56,0,0,142

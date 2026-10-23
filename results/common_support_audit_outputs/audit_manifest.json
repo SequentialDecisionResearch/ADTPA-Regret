@@ -1,0 +1,31 @@
+{
+  "experiment": "Common-Support Regret and Feasibility Audit",
+  "input_sha256": "d44e1997b5110f4bae9698e4db00f8f5a5644aaf071b138d8a905dbd17e5dfd8",
+  "selection_sha256": "cd35c380fc049bbe84d8369ce417b02944c1f464d2af757f85bbf1c51310820d",
+  "seed_states": 1980,
+  "variants": [
+    "fixed6",
+    "fixed7",
+    "fixed12",
+    "fixed24",
+    "fixed48",
+    "fixed96",
+    "fixed192",
+    "adaptive6to12",
+    "adaptive6to48"
+  ],
+  "raw_common": 965,
+  "feasible_common": 954,
+  "nonmonotone_reappearances": {
+    "score_coverage": 0,
+    "eval_feasible": 1
+  },
+  "caveats": [
+    "Common support is a selected subset, not a full-population causal estimand",
+    "Independent evaluation uses finite replications and is not a true oracle",
+    "No missing scores are imputed as zero",
+    "Feasibility-at-all-replications may become stricter with budget",
+    "Observed transitions cannot isolate feasibility from threshold changes",
+    "Seed-level t intervals describe Monte Carlo stream variation only"
+  ]
+}

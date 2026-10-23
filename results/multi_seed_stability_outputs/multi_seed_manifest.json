@@ -1,0 +1,33 @@
+{
+  "experiment": "multi-seed holdout stability; frozen fixed12 states",
+  "snapshot_sha256": "258a89e87ad0878276c91ddbf3d31f20d0084862d57cab4472d04b80fd41f093",
+  "n_seeds": 30,
+  "n_states": 66,
+  "seed_step": 10000019,
+  "variants": [
+    "fixed6",
+    "fixed12",
+    "adaptive6to12",
+    "fixed24",
+    "fixed48",
+    "fixed96",
+    "fixed192"
+  ],
+  "holdout_seed_only": true,
+  "training_candidates_fixed": true,
+  "nested_prefix_within_seed": true,
+  "source_sha256": {
+    "long_run_gate_pilot.py": "20ce725e685ecb60b4316076a309ada5b13013d1cce767b6ce462db2c149704a",
+    "sequential_gate_validation.py": "e0a76e6a4efaa91ff5e92f2ea243ef78cc91f9d64d27fdd2428875381bb1476f",
+    "reference_stability_audit.py": "6709e1226e6695767a0335b901740c4acee5d9548c3b698d67464006df90361d",
+    "real_market_ablation.py": "730386ccfed395526fd3299df59a177c237f8e1fc79dca01783c70ac736ad8c8"
+  },
+  "caveats": [
+    "Reference is not market truth",
+    "Fixed12-visited historical states only",
+    "Student-t intervals are approximate",
+    "Different thresholds for two-look and single-look rules",
+    "Training candidates are fixed across seeds",
+    "Seed replicates are Monte Carlo randomness, not independent markets"
+  ]
+}

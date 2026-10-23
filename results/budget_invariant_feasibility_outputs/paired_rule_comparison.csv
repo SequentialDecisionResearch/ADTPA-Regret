@@ -1,0 +1,5 @@
+budget,n,decision_changed,fallback_rescued,fallback_new,decision_changed_rate
+6,198,0,0,0,0.0
+12,198,12,12,0,0.06060606060606061
+48,198,32,32,0,0.16161616161616163
+96,198,39,39,0,0.19696969696969696

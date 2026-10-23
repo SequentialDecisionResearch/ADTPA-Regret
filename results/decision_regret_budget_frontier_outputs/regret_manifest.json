@@ -1,0 +1,31 @@
+{
+  "experiment": "independent evaluation score regret budget frontier",
+  "input_sha256": "cd35c380fc049bbe84d8369ce417b02944c1f464d2af757f85bbf1c51310820d",
+  "snapshot_sha256": "258a89e87ad0878276c91ddbf3d31f20d0084862d57cab4472d04b80fd41f093",
+  "seeds": 30,
+  "states": 66,
+  "eval_reps": 24,
+  "eval_seed_base": 801000000,
+  "eval_seed_step": 10000019,
+  "eval_rep_step": 1000003,
+  "variants": [
+    "fixed6",
+    "fixed7",
+    "fixed12",
+    "fixed24",
+    "fixed48",
+    "fixed96",
+    "fixed192",
+    "adaptive6to12",
+    "adaptive6to48"
+  ],
+  "caveats": [
+    "Same frozen historical states, not new market paths",
+    "Candidate score is NOT realized return or dollar wealth",
+    "Max-over-actions score oracle has finite-sample selection optimism",
+    "Evaluation uses independent RNG from decision and training streams",
+    "Fallback decisions may have undefined candidate scores",
+    "Feasibility can vary across evaluation reps; both unrestricted and feasible-only diagnostics",
+    "Descriptive seed intervals are not market-generalization confidence intervals"
+  ]
+}

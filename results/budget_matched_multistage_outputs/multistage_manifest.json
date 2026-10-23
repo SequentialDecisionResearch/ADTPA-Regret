@@ -1,0 +1,45 @@
+{
+  "experiment": "independent-seed equal-budget multistage gate",
+  "snapshot_sha256": "258a89e87ad0878276c91ddbf3d31f20d0084862d57cab4472d04b80fd41f093",
+  "n_seeds": 30,
+  "n_states": 66,
+  "seed_start": 1000,
+  "seed_step": 10000019,
+  "variants": [
+    "fixed6",
+    "fixed7",
+    "fixed12",
+    "fixed24",
+    "fixed48",
+    "fixed96",
+    "fixed192",
+    "adaptive6to12",
+    "adaptive6to48"
+  ],
+  "stages": [
+    6,
+    12,
+    24,
+    48
+  ],
+  "multistage_critical": "t Bonferroni alpha/(2*4 looks*3 pairs)",
+  "candidate_training_fixed": true,
+  "holdout_nested_within_seed": true,
+  "seed_streams_independent_of_prior_30": true,
+  "source_sha256": {
+    "long_run_gate_pilot.py": "20ce725e685ecb60b4316076a309ada5b13013d1cce767b6ce462db2c149704a",
+    "sequential_gate_validation.py": "e0a76e6a4efaa91ff5e92f2ea243ef78cc91f9d64d27fdd2428875381bb1476f",
+    "reference_stability_audit.py": "6709e1226e6695767a0335b901740c4acee5d9548c3b698d67464006df90361d",
+    "real_market_ablation.py": "730386ccfed395526fd3299df59a177c237f8e1fc79dca01783c70ac736ad8c8",
+    "multi_seed_stability_audit.py": "ea75412fcf542fb4f6179b794a24ee613a7bf501186b16415f2535e3b81c84ae"
+  },
+  "caveats": [
+    "New seeds avoid reusing previous 30 audit streams",
+    "Only fixed12 historical states; not independent markets",
+    "Reference not market truth; feasibility all-rep attrition",
+    "Different look-adjusted critical values across methods",
+    "Bonferroni-t approximations require distributional assumptions",
+    "Posthoc expected-cost mixture comparison is descriptive",
+    "Multi-stage gate is a new exploratory method, not prespecified prior to earlier results"
+  ]
+}

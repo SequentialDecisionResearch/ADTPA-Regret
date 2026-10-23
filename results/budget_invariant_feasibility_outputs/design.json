@@ -1,0 +1,28 @@
+{
+  "snapshot_sha256": "258a89e87ad0878276c91ddbf3d31f20d0084862d57cab4472d04b80fd41f093",
+  "seed_start": 3000,
+  "seed_step": 10000019,
+  "seeds": 3,
+  "states": 66,
+  "budgets": [
+    6,
+    12,
+    48,
+    96
+  ],
+  "fixed_prefix": 6,
+  "training_unchanged": true,
+  "threshold": "single-look Bonferroni Student-t",
+  "caveats": [
+    "Frozen fixed12-visited states, not independent market paths",
+    "Eligibility is not a chance constraint confidence bound",
+    "Fixed-prefix isolates budget-dependent eligibility only",
+    "Training feasibility still affects the candidate set",
+    "No claim of financial performance or statistical optimality"
+  ],
+  "source_hashes": {
+    "long_run_gate_pilot.py": "20ce725e685ecb60b4316076a309ada5b13013d1cce767b6ce462db2c149704a",
+    "reference_stability_audit.py": "6709e1226e6695767a0335b901740c4acee5d9548c3b698d67464006df90361d",
+    "multi_seed_stability_audit.py": "ea75412fcf542fb4f6179b794a24ee613a7bf501186b16415f2535e3b81c84ae"
+  }
+}

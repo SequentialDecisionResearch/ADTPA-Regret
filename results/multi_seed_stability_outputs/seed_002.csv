@@ -1,0 +1,463 @@
+seed_index,seed_offset,state_index,date,decision_number,variant,signature,action,horizon,feasible,reps,reason,same_fixed48,same_fixed96,same_fixed192
+2,30000057,0,2018-01-02,0,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,0,2018-01-02,0,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,0,2018-01-02,0,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,0,2018-01-02,0,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,0,2018-01-02,0,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,0,2018-01-02,0,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,0,2018-01-02,0,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,1,2018-03-29,1,fixed6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,1,2018-03-29,1,fixed12,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,1,2018-03-29,1,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,1,2018-03-29,1,fixed24,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,1,2018-03-29,1,fixed48,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,1,2018-03-29,1,fixed96,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,1,2018-03-29,1,fixed192,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,2,2018-06-25,2,fixed6,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,2,2018-06-25,2,fixed12,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,2,2018-06-25,2,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,2,2018-06-25,2,fixed24,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,2,2018-06-25,2,fixed48,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,2,2018-06-25,2,fixed96,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,2,2018-06-25,2,fixed192,"[""stock_buy"",60,[0.12,0.12,0.4,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,3,2018-09-19,3,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,3,2018-09-19,3,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,3,2018-09-19,3,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,3,2018-09-19,3,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,3,2018-09-19,3,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,3,2018-09-19,3,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,3,2018-09-19,3,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,4,2018-12-14,4,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,4,2018-12-14,4,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,4,2018-12-14,4,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,4,2018-12-14,4,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,4,2018-12-14,4,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,4,2018-12-14,4,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,4,2018-12-14,4,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,5,2019-01-15,5,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,5,2019-01-15,5,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,5,2019-01-15,5,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,5,2019-01-15,5,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,5,2019-01-15,5,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,5,2019-01-15,5,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,5,2019-01-15,5,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,6,2019-01-30,6,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,6,2019-01-30,6,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,6,2019-01-30,6,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,6,2019-01-30,6,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,6,2019-01-30,6,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,6,2019-01-30,6,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,6,2019-01-30,6,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,7,2019-02-13,7,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,False
+2,30000057,7,2019-02-13,7,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,False
+2,30000057,7,2019-02-13,7,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,False
+2,30000057,7,2019-02-13,7,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,False
+2,30000057,7,2019-02-13,7,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,False
+2,30000057,7,2019-02-13,7,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,False
+2,30000057,7,2019-02-13,7,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,False,False,True
+2,30000057,8,2019-03-14,8,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,8,2019-03-14,8,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,8,2019-03-14,8,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,8,2019-03-14,8,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,8,2019-03-14,8,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,8,2019-03-14,8,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,8,2019-03-14,8,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,9,2019-03-28,9,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,9,2019-03-28,9,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,False,False,False
+2,30000057,9,2019-03-28,9,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,9,2019-03-28,9,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,False,False,False
+2,30000057,9,2019-03-28,9,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,9,2019-03-28,9,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,9,2019-03-28,9,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,10,2019-04-11,10,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,10,2019-04-11,10,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,False,False,False
+2,30000057,10,2019-04-11,10,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,10,2019-04-11,10,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,False,False,False
+2,30000057,10,2019-04-11,10,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,10,2019-04-11,10,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,10,2019-04-11,10,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,11,2019-04-26,11,fixed6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,6,default_after_max_budget,False,False,False
+2,30000057,11,2019-04-26,11,fixed12,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,12,default_after_max_budget,False,False,False
+2,30000057,11,2019-04-26,11,adaptive6to12,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,12,default_after_max_budget,False,False,False
+2,30000057,11,2019-04-26,11,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,11,2019-04-26,11,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,11,2019-04-26,11,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,11,2019-04-26,11,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,12,2019-05-10,12,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,12,2019-05-10,12,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,12,2019-05-10,12,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,12,2019-05-10,12,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,12,2019-05-10,12,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,12,2019-05-10,12,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,12,2019-05-10,12,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,13,2019-06-10,13,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,13,2019-06-10,13,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,13,2019-06-10,13,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,13,2019-06-10,13,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,13,2019-06-10,13,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,13,2019-06-10,13,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,13,2019-06-10,13,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,14,2019-07-09,14,fixed6,"[""iyw_buy"",60,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,60,True,6,default_after_max_budget,False,False,False
+2,30000057,14,2019-07-09,14,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,14,2019-07-09,14,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,14,2019-07-09,14,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,14,2019-07-09,14,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,14,2019-07-09,14,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,14,2019-07-09,14,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,15,2019-08-06,15,fixed6,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,15,2019-08-06,15,fixed12,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,15,2019-08-06,15,adaptive6to12,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,15,2019-08-06,15,fixed24,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,15,2019-08-06,15,fixed48,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,15,2019-08-06,15,fixed96,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,15,2019-08-06,15,fixed192,"[""stock_buy"",60,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,16,2019-10-30,16,fixed6,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,40,True,6,significant_challenger,True,True,True
+2,30000057,16,2019-10-30,16,fixed12,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,40,True,12,significant_challenger,True,True,True
+2,30000057,16,2019-10-30,16,adaptive6to12,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,40,True,6,significant_challenger,True,True,True
+2,30000057,16,2019-10-30,16,fixed24,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,40,True,24,significant_challenger,True,True,True
+2,30000057,16,2019-10-30,16,fixed48,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,40,True,48,significant_challenger,True,True,True
+2,30000057,16,2019-10-30,16,fixed96,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,40,True,96,significant_challenger,True,True,True
+2,30000057,16,2019-10-30,16,fixed192,"[""stock_buy"",40,[0.4,0.12,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,40,True,192,significant_challenger,True,True,True
+2,30000057,17,2019-12-27,17,fixed6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,17,2019-12-27,17,fixed12,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,17,2019-12-27,17,adaptive6to12,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,17,2019-12-27,17,fixed24,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,17,2019-12-27,17,fixed48,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,17,2019-12-27,17,fixed96,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,17,2019-12-27,17,fixed192,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,18,2020-03-25,18,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,18,2020-03-25,18,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,18,2020-03-25,18,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,18,2020-03-25,18,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,18,2020-03-25,18,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,18,2020-03-25,18,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,18,2020-03-25,18,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,19,2020-04-23,19,fixed6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,6,default_after_max_budget,True,False,False
+2,30000057,19,2020-04-23,19,fixed12,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,12,default_after_max_budget,True,False,False
+2,30000057,19,2020-04-23,19,adaptive6to12,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,12,default_after_max_budget,True,False,False
+2,30000057,19,2020-04-23,19,fixed24,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,24,default_after_max_budget,True,False,False
+2,30000057,19,2020-04-23,19,fixed48,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,48,default_after_max_budget,True,False,False
+2,30000057,19,2020-04-23,19,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,False,True,True
+2,30000057,19,2020-04-23,19,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,False,True,True
+2,30000057,20,2020-05-21,20,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,20,2020-05-21,20,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,20,2020-05-21,20,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,20,2020-05-21,20,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,20,2020-05-21,20,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,20,2020-05-21,20,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,20,2020-05-21,20,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,21,2020-06-05,21,fixed6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,6,default_after_max_budget,False,False,False
+2,30000057,21,2020-06-05,21,fixed12,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,12,default_after_max_budget,False,False,False
+2,30000057,21,2020-06-05,21,adaptive6to12,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,12,default_after_max_budget,False,False,False
+2,30000057,21,2020-06-05,21,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,21,2020-06-05,21,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,21,2020-06-05,21,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,21,2020-06-05,21,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,22,2020-06-19,22,fixed6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,6,default_after_max_budget,False,False,False
+2,30000057,22,2020-06-19,22,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,22,2020-06-19,22,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,22,2020-06-19,22,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,22,2020-06-19,22,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,22,2020-06-19,22,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,22,2020-06-19,22,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,23,2020-07-20,23,fixed6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,6,default_after_max_budget,False,False,False
+2,30000057,23,2020-07-20,23,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,23,2020-07-20,23,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,23,2020-07-20,23,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,23,2020-07-20,23,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,23,2020-07-20,23,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,23,2020-07-20,23,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,24,2020-08-03,24,fixed6,"[""iyw_buy"",10,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,10,True,6,default_after_max_budget,False,False,False
+2,30000057,24,2020-08-03,24,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,24,2020-08-03,24,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,24,2020-08-03,24,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,24,2020-08-03,24,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,24,2020-08-03,24,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,24,2020-08-03,24,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,25,2020-08-17,25,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,25,2020-08-17,25,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,25,2020-08-17,25,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,25,2020-08-17,25,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,25,2020-08-17,25,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,25,2020-08-17,25,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,25,2020-08-17,25,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,26,2020-09-15,26,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,26,2020-09-15,26,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,26,2020-09-15,26,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,26,2020-09-15,26,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,26,2020-09-15,26,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,26,2020-09-15,26,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,26,2020-09-15,26,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,27,2020-12-09,27,fixed6,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,27,2020-12-09,27,fixed12,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,27,2020-12-09,27,adaptive6to12,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,27,2020-12-09,27,fixed24,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,27,2020-12-09,27,fixed48,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,27,2020-12-09,27,fixed96,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,27,2020-12-09,27,fixed192,"[""stock_buy"",60,[0.12,0.4,0.12,0.12,0.12,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,28,2021-03-09,28,fixed6,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,20,True,6,default_after_max_budget,True,True,False
+2,30000057,28,2021-03-09,28,fixed12,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,20,True,12,default_after_max_budget,True,True,False
+2,30000057,28,2021-03-09,28,adaptive6to12,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,20,True,12,default_after_max_budget,True,True,False
+2,30000057,28,2021-03-09,28,fixed24,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,20,True,24,default_after_max_budget,True,True,False
+2,30000057,28,2021-03-09,28,fixed48,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,20,True,48,default_after_max_budget,True,True,False
+2,30000057,28,2021-03-09,28,fixed96,"[""iyw_buy"",20,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,20,True,96,default_after_max_budget,True,True,False
+2,30000057,28,2021-03-09,28,fixed192,"[""cash_wait"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,20,True,192,significant_challenger,False,False,True
+2,30000057,29,2021-04-07,29,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,29,2021-04-07,29,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,29,2021-04-07,29,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,29,2021-04-07,29,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,29,2021-04-07,29,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,29,2021-04-07,29,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,29,2021-04-07,29,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,30,2021-05-05,30,fixed6,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,40,True,6,default_after_max_budget,True,False,False
+2,30000057,30,2021-05-05,30,fixed12,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,40,True,12,default_after_max_budget,True,False,False
+2,30000057,30,2021-05-05,30,adaptive6to12,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,40,True,6,early_default,True,False,False
+2,30000057,30,2021-05-05,30,fixed24,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,40,True,24,default_after_max_budget,True,False,False
+2,30000057,30,2021-05-05,30,fixed48,"[""iyw_buy"",40,[0.0,0.0,0.0,0.0,0.0,0.0],1.0,true]",iyw_buy,40,True,48,default_after_max_budget,True,False,False
+2,30000057,30,2021-05-05,30,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,False,True,True
+2,30000057,30,2021-05-05,30,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,False,True,True
+2,30000057,31,2021-07-01,31,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,31,2021-07-01,31,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,31,2021-07-01,31,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,31,2021-07-01,31,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,31,2021-07-01,31,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,31,2021-07-01,31,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,31,2021-07-01,31,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.4,0.12,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,32,2021-09-27,32,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,32,2021-09-27,32,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,32,2021-09-27,32,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,32,2021-09-27,32,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,32,2021-09-27,32,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,32,2021-09-27,32,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,32,2021-09-27,32,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,33,2021-12-21,33,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,33,2021-12-21,33,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,33,2021-12-21,33,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,33,2021-12-21,33,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,33,2021-12-21,33,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,33,2021-12-21,33,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,33,2021-12-21,33,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,34,2022-03-18,34,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,34,2022-03-18,34,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,34,2022-03-18,34,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,34,2022-03-18,34,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,34,2022-03-18,34,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,34,2022-03-18,34,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,34,2022-03-18,34,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,35,2022-04-01,35,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,35,2022-04-01,35,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,35,2022-04-01,35,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,35,2022-04-01,35,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,35,2022-04-01,35,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,35,2022-04-01,35,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,35,2022-04-01,35,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,36,2022-05-02,36,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,False
+2,30000057,36,2022-05-02,36,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,False
+2,30000057,36,2022-05-02,36,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,False
+2,30000057,36,2022-05-02,36,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,False
+2,30000057,36,2022-05-02,36,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,False
+2,30000057,36,2022-05-02,36,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,False
+2,30000057,36,2022-05-02,36,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,False,False,True
+2,30000057,37,2022-05-16,37,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,37,2022-05-16,37,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,37,2022-05-16,37,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,37,2022-05-16,37,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,37,2022-05-16,37,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,37,2022-05-16,37,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,37,2022-05-16,37,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,38,2022-06-14,38,fixed6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,38,2022-06-14,38,fixed12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,12,significant_challenger,True,True,True
+2,30000057,38,2022-06-14,38,adaptive6to12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,38,2022-06-14,38,fixed24,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,24,significant_challenger,True,True,True
+2,30000057,38,2022-06-14,38,fixed48,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,48,significant_challenger,True,True,True
+2,30000057,38,2022-06-14,38,fixed96,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,96,significant_challenger,True,True,True
+2,30000057,38,2022-06-14,38,fixed192,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,192,significant_challenger,True,True,True
+2,30000057,39,2022-06-22,39,fixed6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,39,2022-06-22,39,fixed12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,12,significant_challenger,True,True,True
+2,30000057,39,2022-06-22,39,adaptive6to12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,39,2022-06-22,39,fixed24,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,24,significant_challenger,True,True,True
+2,30000057,39,2022-06-22,39,fixed48,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,48,significant_challenger,True,True,True
+2,30000057,39,2022-06-22,39,fixed96,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,96,significant_challenger,True,True,True
+2,30000057,39,2022-06-22,39,fixed192,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,192,significant_challenger,True,True,True
+2,30000057,40,2022-06-29,40,fixed6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,40,2022-06-29,40,fixed12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,12,significant_challenger,True,True,True
+2,30000057,40,2022-06-29,40,adaptive6to12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,40,2022-06-29,40,fixed24,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,24,significant_challenger,True,True,True
+2,30000057,40,2022-06-29,40,fixed48,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,48,significant_challenger,True,True,True
+2,30000057,40,2022-06-29,40,fixed96,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,96,significant_challenger,True,True,True
+2,30000057,40,2022-06-29,40,fixed192,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,192,significant_challenger,True,True,True
+2,30000057,41,2022-07-07,41,fixed6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,41,2022-07-07,41,fixed12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,12,significant_challenger,True,True,True
+2,30000057,41,2022-07-07,41,adaptive6to12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,41,2022-07-07,41,fixed24,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,24,significant_challenger,True,True,True
+2,30000057,41,2022-07-07,41,fixed48,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,48,significant_challenger,True,True,True
+2,30000057,41,2022-07-07,41,fixed96,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,96,significant_challenger,True,True,True
+2,30000057,41,2022-07-07,41,fixed192,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,192,significant_challenger,True,True,True
+2,30000057,42,2022-07-14,42,fixed6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,42,2022-07-14,42,fixed12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,12,significant_challenger,True,True,True
+2,30000057,42,2022-07-14,42,adaptive6to12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,42,2022-07-14,42,fixed24,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,24,significant_challenger,True,True,True
+2,30000057,42,2022-07-14,42,fixed48,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,48,significant_challenger,True,True,True
+2,30000057,42,2022-07-14,42,fixed96,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,96,significant_challenger,True,True,True
+2,30000057,42,2022-07-14,42,fixed192,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,192,significant_challenger,True,True,True
+2,30000057,43,2022-07-21,43,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,43,2022-07-21,43,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,43,2022-07-21,43,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,43,2022-07-21,43,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,43,2022-07-21,43,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,43,2022-07-21,43,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,43,2022-07-21,43,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,44,2022-08-18,44,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,44,2022-08-18,44,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,44,2022-08-18,44,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,44,2022-08-18,44,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,44,2022-08-18,44,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,44,2022-08-18,44,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,44,2022-08-18,44,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,45,2022-09-01,45,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,45,2022-09-01,45,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,False,False,False
+2,30000057,45,2022-09-01,45,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,45,2022-09-01,45,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,45,2022-09-01,45,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,45,2022-09-01,45,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,45,2022-09-01,45,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,46,2022-09-30,46,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,46,2022-09-30,46,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,46,2022-09-30,46,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,46,2022-09-30,46,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,46,2022-09-30,46,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,46,2022-09-30,46,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,46,2022-09-30,46,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,47,2022-10-28,47,fixed6,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,47,2022-10-28,47,fixed12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,12,significant_challenger,True,True,True
+2,30000057,47,2022-10-28,47,adaptive6to12,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,6,significant_challenger,True,True,True
+2,30000057,47,2022-10-28,47,fixed24,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,24,significant_challenger,True,True,True
+2,30000057,47,2022-10-28,47,fixed48,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,48,significant_challenger,True,True,True
+2,30000057,47,2022-10-28,47,fixed96,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,96,significant_challenger,True,True,True
+2,30000057,47,2022-10-28,47,fixed192,"[""cash_wait"",5,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,5,True,192,significant_challenger,True,True,True
+2,30000057,48,2022-11-04,48,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,48,2022-11-04,48,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,48,2022-11-04,48,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,False,False,False
+2,30000057,48,2022-11-04,48,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,48,2022-11-04,48,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,48,2022-11-04,48,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,48,2022-11-04,48,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,49,2022-12-05,49,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,False
+2,30000057,49,2022-12-05,49,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,False
+2,30000057,49,2022-12-05,49,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,False
+2,30000057,49,2022-12-05,49,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,False
+2,30000057,49,2022-12-05,49,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,False
+2,30000057,49,2022-12-05,49,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,False
+2,30000057,49,2022-12-05,49,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,False,False,True
+2,30000057,50,2022-12-19,50,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,50,2022-12-19,50,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,50,2022-12-19,50,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,50,2022-12-19,50,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,50,2022-12-19,50,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,50,2022-12-19,50,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,50,2022-12-19,50,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,51,2023-01-04,51,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,51,2023-01-04,51,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,51,2023-01-04,51,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,51,2023-01-04,51,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,51,2023-01-04,51,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,51,2023-01-04,51,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,51,2023-01-04,51,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,52,2023-01-19,52,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,52,2023-01-19,52,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,52,2023-01-19,52,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,52,2023-01-19,52,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,52,2023-01-19,52,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,52,2023-01-19,52,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,52,2023-01-19,52,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,53,2023-02-02,53,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,53,2023-02-02,53,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,53,2023-02-02,53,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,53,2023-02-02,53,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,53,2023-02-02,53,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,53,2023-02-02,53,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,53,2023-02-02,53,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,54,2023-02-16,54,fixed6,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,54,2023-02-16,54,fixed12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,12,significant_challenger,True,True,True
+2,30000057,54,2023-02-16,54,adaptive6to12,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,6,significant_challenger,True,True,True
+2,30000057,54,2023-02-16,54,fixed24,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,24,significant_challenger,True,True,True
+2,30000057,54,2023-02-16,54,fixed48,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,48,significant_challenger,True,True,True
+2,30000057,54,2023-02-16,54,fixed96,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,96,significant_challenger,True,True,True
+2,30000057,54,2023-02-16,54,fixed192,"[""cash_wait"",10,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,true]",cash_wait,10,True,192,significant_challenger,True,True,True
+2,30000057,55,2023-03-03,55,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,55,2023-03-03,55,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,55,2023-03-03,55,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,55,2023-03-03,55,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,55,2023-03-03,55,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,55,2023-03-03,55,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,55,2023-03-03,55,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,56,2023-03-31,56,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,False,False
+2,30000057,56,2023-03-31,56,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,False,False
+2,30000057,56,2023-03-31,56,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,False,False
+2,30000057,56,2023-03-31,56,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,False,False
+2,30000057,56,2023-03-31,56,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,False,False
+2,30000057,56,2023-03-31,56,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,False,True,True
+2,30000057,56,2023-03-31,56,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,False,True,True
+2,30000057,57,2023-06-28,57,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,57,2023-06-28,57,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,57,2023-06-28,57,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,57,2023-06-28,57,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,57,2023-06-28,57,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,57,2023-06-28,57,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,57,2023-06-28,57,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,58,2023-09-22,58,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,False,False,False
+2,30000057,58,2023-09-22,58,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,False,False,False
+2,30000057,58,2023-09-22,58,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,False,False,False
+2,30000057,58,2023-09-22,58,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,False,False,False
+2,30000057,58,2023-09-22,58,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,58,2023-09-22,58,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,58,2023-09-22,58,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,59,2023-12-18,59,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,59,2023-12-18,59,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,59,2023-12-18,59,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,59,2023-12-18,59,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,59,2023-12-18,59,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,59,2023-12-18,59,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,59,2023-12-18,59,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,60,2024-01-18,60,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,60,2024-01-18,60,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,60,2024-01-18,60,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,60,2024-01-18,60,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,60,2024-01-18,60,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,60,2024-01-18,60,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,60,2024-01-18,60,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.12,0.4],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,61,2024-04-15,61,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,61,2024-04-15,61,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,61,2024-04-15,61,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,61,2024-04-15,61,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,61,2024-04-15,61,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,61,2024-04-15,61,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,61,2024-04-15,61,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,62,2024-07-11,62,fixed6,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,62,2024-07-11,62,fixed12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,12,significant_challenger,True,True,True
+2,30000057,62,2024-07-11,62,adaptive6to12,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,6,significant_challenger,True,True,True
+2,30000057,62,2024-07-11,62,fixed24,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,24,significant_challenger,True,True,True
+2,30000057,62,2024-07-11,62,fixed48,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,48,significant_challenger,True,True,True
+2,30000057,62,2024-07-11,62,fixed96,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,96,significant_challenger,True,True,True
+2,30000057,62,2024-07-11,62,fixed192,"[""stock_buy"",60,[0.12,0.12,0.12,0.12,0.4,0.12],0.0,true]",stock_buy,60,True,192,significant_challenger,True,True,True
+2,30000057,63,2024-10-04,63,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,63,2024-10-04,63,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,63,2024-10-04,63,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,63,2024-10-04,63,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,63,2024-10-04,63,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,63,2024-10-04,63,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,63,2024-10-04,63,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,64,2024-11-01,64,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,64,2024-11-01,64,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,64,2024-11-01,64,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,64,2024-11-01,64,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,64,2024-11-01,64,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,64,2024-11-01,64,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,64,2024-11-01,64,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True
+2,30000057,65,2024-12-02,65,fixed6,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,65,2024-12-02,65,fixed12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,12,IYW holdout infeasible,True,True,True
+2,30000057,65,2024-12-02,65,adaptive6to12,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,6,IYW holdout infeasible,True,True,True
+2,30000057,65,2024-12-02,65,fixed24,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,24,IYW holdout infeasible,True,True,True
+2,30000057,65,2024-12-02,65,fixed48,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,48,IYW holdout infeasible,True,True,True
+2,30000057,65,2024-12-02,65,fixed96,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,96,IYW holdout infeasible,True,True,True
+2,30000057,65,2024-12-02,65,fixed192,"[""infeasible_fallback"",20,[0.0,0.0,0.0,0.0,0.0,0.0],0.0,false]",infeasible_fallback,20,False,192,IYW holdout infeasible,True,True,True

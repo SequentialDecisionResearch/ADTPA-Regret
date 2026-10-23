@@ -1,0 +1,4 @@
+metric,all_seed_states,common_n,common_fraction,dropped_n
+score_regret,1980,965,0.48737373737373735,1015
+signed_reference_score_gap,1980,965,0.48737373737373735,1015
+feasible_score_regret,1980,954,0.4818181818181818,1026
