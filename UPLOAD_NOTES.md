@@ -1,0 +1,1 @@
+Upload the **contents** of this ZIP into the existing public ADTPA-Regret repository. Replace the initial README.md with this README. Do not replace the existing LICENSE file. The market price snapshot is deliberately excluded.
